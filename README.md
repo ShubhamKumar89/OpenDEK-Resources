@@ -1,4 +1,4 @@
-# SmartEdge Open-DE Resources
+# SmartEdge Open-DEK Resources
 
 ## Documentation
 
