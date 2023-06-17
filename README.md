@@ -20,7 +20,7 @@
 
 [ESP](https://github.com/intel/Edge-Software-Provisioner)
 
-[Profile for DEK](https://github.com/IntelSmartEdge/profiles)
+[Profile](https://github.com/IntelSmartEdge/profiles)
 
 [esp-profile-ubuntu](https://github.com/intel/esp-profile-ubuntu)
 
