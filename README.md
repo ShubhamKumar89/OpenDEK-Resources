@@ -6,6 +6,8 @@
 
 [IntelSmartEdge](https://intelsmartedge.github.io/docs/experience-kits/developer-experience-kit-default-install/)
 
+[Provisioning-intelsmartedge](https://intelsmartedge.github.io/docs/experience-kits/provisioning/provisioning/)
+
 ## Github Orgs
 
 [Intel Corporation](https://github.com/orgs/intel/repositories)
